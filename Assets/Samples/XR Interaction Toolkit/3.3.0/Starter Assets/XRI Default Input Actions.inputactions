@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "XRI Default Input Actions",
     "maps": [
         {
@@ -3395,6 +3396,54 @@
                     "action": "Spawn Object",
                     "isComposite": false,
                     "isPartOfComposite": true
+                }
+            ]
+        },
+        {
+            "name": "Keyboard Inputs",
+            "id": "4d3aa70d-5d3e-4eb5-bfe1-bab158d84cf3",
+            "actions": [
+                {
+                    "name": "Press 1",
+                    "type": "Button",
+                    "id": "92de26c1-cfa0-405b-bcb1-eb4ee2643c63",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Press 2",
+                    "type": "Button",
+                    "id": "a28932e4-4a64-4e31-a03b-0a87db768b18",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2391320b-1ab7-457c-bb8f-23c347b9df31",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press 1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2168adad-8da3-4fdf-af39-9c10d8cce5f0",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press 2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
