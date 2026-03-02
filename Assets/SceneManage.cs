@@ -32,4 +32,30 @@ public class SceneManage : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+    
+    void OnPress3(InputValue value)
+    {
+        SceneManager.LoadScene(3);
+    }
+    
+    void OnPress4(InputValue value)
+    {
+        SceneManager.LoadScene(4);
+    }
+    
+    void OnPress5(InputValue value)
+    {
+        SceneManager.LoadScene(5);
+    }
+    
+    void OnPress6(InputValue value)
+    {
+        SceneManager.LoadScene(6);
+    }
+    
+    void OnPress0(InputValue value)
+    {
+        SceneManager.LoadScene(7);
+    }
+    
 }

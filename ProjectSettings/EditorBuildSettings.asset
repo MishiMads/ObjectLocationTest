@@ -14,6 +14,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/City - Not Rhythmic.unity
     guid: 6c21960e40eac534c88e9f01b5c5f4ed
+  - enabled: 1
+    path: Assets/Scenes/ParkArrhythmic.unity
+    guid: 3960bcfeb6f16ab46b66a62e0076f9e4
+  - enabled: 1
+    path: Assets/Scenes/ParkRythmic.unity
+    guid: 1f1cf0e5b1535d64486eb733dd11e5c2
+  - enabled: 1
+    path: Assets/Scenes/NoItemsParkArrhythmic.unity
+    guid: 2e14a5c10c7214c44a670bd1df15b035
+  - enabled: 1
+    path: Assets/Scenes/NoItemsParkRythmic.unity
+    guid: 1e0a26275db08644c85eb626007aee79
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
