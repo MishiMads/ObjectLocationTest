@@ -45,11 +45,13 @@ public class SceneManage : MonoBehaviour
         SceneManager.LoadScene(4);
     }
     
-    
-
-    void OnPress0(InputValue value) //This opens BasicScene - Start scene with nothing
+    void OnPress0(InputValue value) // This opens BasicScene - Start scene with nothing
     {
         SceneManager.LoadScene(0);
     }
-    
+
+    void OnToggleItems(InputValue value) // Toggles items! :D
+    {
+        itemsVisible = !itemsVisible;
+    }
 }

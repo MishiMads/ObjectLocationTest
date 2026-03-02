@@ -3420,6 +3420,42 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Press 3",
+                    "type": "Button",
+                    "id": "a64061ab-a1b6-4d30-ad9a-71be24bbac74",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Press 4",
+                    "type": "Button",
+                    "id": "2b0e63a1-9742-4384-a97c-6d0d28e9aba4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Press 0",
+                    "type": "Button",
+                    "id": "1d32597d-780a-4307-a5dd-9ac36be3b974",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ToggleItems",
+                    "type": "Button",
+                    "id": "327f49f1-4213-408e-bf28-bd2c0130ba8b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -3442,6 +3478,50 @@
                     "processors": "",
                     "groups": "",
                     "action": "Press 2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cfeaaeb4-4b6c-4f10-8767-bb99e7820f33",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press 3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "575c0093-3969-4ce3-ae34-f3ca17e689e0",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press 4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0954f0ad-c3ff-4fe0-a34b-f95e61c9fdeb",
+                    "path": "<Keyboard>/0",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press 0",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "62a86522-d9d7-469d-bfb7-9c5de35ef74d",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleItems",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
