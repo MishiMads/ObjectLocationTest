@@ -8,6 +8,8 @@ public class SceneManage : MonoBehaviour
 {
     private static SceneManage _instance;
 
+    public bool itemsVisible = false;
+
     void Awake()
     {
         if (_instance != null && _instance != this)
@@ -23,39 +25,31 @@ public class SceneManage : MonoBehaviour
     }
 
 
-    void OnPress1(InputValue value)
+    void OnPress1(InputValue value) // City - Rythmic
     {
         SceneManager.LoadScene(1);
     }
 
-    void OnPress2(InputValue value)
+    void OnPress2(InputValue value) // City - Not Rythmic
     {
         SceneManager.LoadScene(2);
     }
     
-    void OnPress3(InputValue value)
+    void OnPress3(InputValue value) // ParkArrythmic
     {
         SceneManager.LoadScene(3);
     }
     
-    void OnPress4(InputValue value)
+    void OnPress4(InputValue value) // ParkRhythmic
     {
         SceneManager.LoadScene(4);
     }
     
-    void OnPress5(InputValue value)
-    {
-        SceneManager.LoadScene(5);
-    }
     
-    void OnPress6(InputValue value)
+
+    void OnPress0(InputValue value) //This opens BasicScene - Start scene with nothing
     {
-        SceneManager.LoadScene(6);
-    }
-    
-    void OnPress0(InputValue value)
-    {
-        SceneManager.LoadScene(7);
+        SceneManager.LoadScene(0);
     }
     
 }
