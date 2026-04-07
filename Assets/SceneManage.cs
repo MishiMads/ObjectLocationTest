@@ -35,12 +35,12 @@ public class SceneManage : MonoBehaviour
         SceneManager.LoadScene(2);
     }
     
-    void OnPress3(InputValue value) // ParkArrythmic
+    void OnPress3(InputValue value) // ParkRhythmic
     {
         SceneManager.LoadScene(3);
     }
     
-    void OnPress4(InputValue value) // ParkRhythmic
+    void OnPress4(InputValue value) // ParkArrhythmic
     {
         SceneManager.LoadScene(4);
     }
