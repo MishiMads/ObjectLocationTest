@@ -33471,6 +33471,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -109.765
       objectReference: {fileID: 0}
+    - target: {fileID: 167656699059111206, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Wellf
+      objectReference: {fileID: 0}
     - target: {fileID: 193667890874389398, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_Name
       value: City Rythmic Items
@@ -33490,6 +33494,14 @@ PrefabInstance:
     - target: {fileID: 465002172833372759, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_ConstrainProportionsScale
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1333056289659183678, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Fries
+      objectReference: {fileID: 0}
+    - target: {fileID: 1472857100064072144, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: RubiksCube
       objectReference: {fileID: 0}
     - target: {fileID: 1578086230557801360, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalScale.x
@@ -33570,6 +33582,10 @@ PrefabInstance:
     - target: {fileID: 1808231193639310659, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1820035812422211864, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: AirBalloon
       objectReference: {fileID: 0}
     - target: {fileID: 2328202517492874616, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalPosition.x
@@ -33675,6 +33691,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 43.076
       objectReference: {fileID: 0}
+    - target: {fileID: 5465710968556480265, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Helicopter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5650868318547411207, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Hammer
+      objectReference: {fileID: 0}
     - target: {fileID: 6097116092890349311, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.1
@@ -33762,6 +33786,14 @@ PrefabInstance:
     - target: {fileID: 6979579020518896225, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 8104947084921340319, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Car
+      objectReference: {fileID: 0}
+    - target: {fileID: 8228776704526899442, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
+      propertyPath: itemName
+      value: Toaster
       objectReference: {fileID: 0}
     - target: {fileID: 8294990480678340298, guid: 0c311890b1d442c4a8fb08953d7e0a15, type: 3}
       propertyPath: m_LocalPosition.x

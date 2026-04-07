@@ -40678,6 +40678,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 607049924934455098, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Cheese
+      objectReference: {fileID: 0}
     - target: {fileID: 983542075315213853, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6.63
@@ -40754,6 +40758,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 9.398
       objectReference: {fileID: 0}
+    - target: {fileID: 1386215966781947182, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Cherry
+      objectReference: {fileID: 0}
     - target: {fileID: 2436252333205683502, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -40765,6 +40773,14 @@ PrefabInstance:
     - target: {fileID: 2529982151202552275, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_LocalPosition.z
       value: 3.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2620781927612362962, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Compass
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710819422862945354, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Corn
       objectReference: {fileID: 0}
     - target: {fileID: 3163100355950633709, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_LocalPosition.x
@@ -40846,6 +40862,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -8.018
       objectReference: {fileID: 0}
+    - target: {fileID: 3680946689401747082, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Bonfire
+      objectReference: {fileID: 0}
+    - target: {fileID: 3762020452789492219, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: HotDog
+      objectReference: {fileID: 0}
     - target: {fileID: 4070941861135283155, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_LocalScale.x
       value: 18
@@ -40901,6 +40925,14 @@ PrefabInstance:
     - target: {fileID: 4616295395888110559, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_Name
       value: City Arrythmic Items
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733873968659393791, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Cauldron
+      objectReference: {fileID: 0}
+    - target: {fileID: 5315581005311714303, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
+      propertyPath: itemName
+      value: Rake
       objectReference: {fileID: 0}
     - target: {fileID: 5345360564291720723, guid: a3f3aaec00d9d2a4bb5eb708f3b0df32, type: 3}
       propertyPath: m_LocalPosition.x

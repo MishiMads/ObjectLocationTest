@@ -561,6 +561,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &4069300354206926390
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5819,6 +5821,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Compass
 --- !u!114 &5361291937083403302
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5868,6 +5872,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 2620781927612362962}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 2620781927612362962}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -11420,6 +11436,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &3365284634250569161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16440,6 +16458,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &3343080877503942808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21550,6 +21570,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &2412831527747892546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26570,6 +26592,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &848142203091585502
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31590,6 +31614,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &1876830103867034636
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36610,6 +36636,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: 
 --- !u!114 &1963773947857662288
 MonoBehaviour:
   m_ObjectHideFlags: 0
