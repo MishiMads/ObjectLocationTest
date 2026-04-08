@@ -3456,6 +3456,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Press F",
+                    "type": "Button",
+                    "id": "35c7f3dc-3f30-484b-9c6a-d8679022de81",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -3522,6 +3531,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "ToggleItems",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0c1b507f-ffec-461c-8826-7b078d2f9859",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press F",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

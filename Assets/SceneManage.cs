@@ -53,21 +53,33 @@ public class SceneManage : MonoBehaviour
     void OnPress1(InputValue value) // City - Rythmic
     {
         SceneManager.LoadScene(1);
+        sample[0] = "CityRhythmic";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
     }
 
     void OnPress2(InputValue value) // City - Not Rythmic
     {
         SceneManager.LoadScene(2);
+        sample[0] = "CityArrhythmic";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
     }
     
     void OnPress3(InputValue value) // ParkRhythmic
     {
         SceneManager.LoadScene(3);
+        sample[0] = "ParkRhythmic";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
     }
     
     void OnPress4(InputValue value) // ParkArrhythmic
     {
         SceneManager.LoadScene(4);
+        sample[0] = "ParkArrhythmic";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
     }
     
     void OnPress0(InputValue value) // This opens BasicScene - Start scene with nothing
@@ -78,5 +90,12 @@ public class SceneManage : MonoBehaviour
     void OnToggleItems(InputValue value) // Toggles items! :D
     {
         itemsVisible = !itemsVisible;
+    }
+
+    void OnPressF(InputValue value)
+    {
+        sample[0] = "Recall";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
     }
 }

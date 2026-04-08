@@ -6,7 +6,7 @@ public class CheckIfItems : MonoBehaviour
 
     public GameObject items;
 
-    void Start()
+    void Awake()
     {
         sceneManage = GameObject.FindGameObjectWithTag("Manager").GetComponent<SceneManage>();
 
