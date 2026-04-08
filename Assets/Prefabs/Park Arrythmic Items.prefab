@@ -243,6 +243,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Skib
 --- !u!114 &8166177316124599049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -292,6 +294,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8990613012863992620}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 8990613012863992620}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -5263,6 +5277,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Apple
 --- !u!114 &7125798584465355711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5312,6 +5328,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 4815368026898643961}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 4815368026898643961}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -10345,6 +10373,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: CoffeeMachine
 --- !u!114 &1039958070838229149
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10394,6 +10424,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8222442956572007964}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 8222442956572007964}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -15365,6 +15407,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Chainsaw
 --- !u!114 &4911258606706491601
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15414,6 +15458,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8453182239492196391}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 8453182239492196391}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -20475,6 +20531,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Banana
 --- !u!114 &4536922780052839710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20524,6 +20582,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 2338979007750455278}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 2338979007750455278}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -26220,6 +26290,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Guitar
 --- !u!114 &8465168728108044751
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26269,6 +26341,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 2260533554587547580}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 2260533554587547580}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -31240,6 +31324,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Reb
 --- !u!114 &2279488093133925939
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31289,6 +31375,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 432503199454782091}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 432503199454782091}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
@@ -36374,6 +36472,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InteractionTest
   interactableHandler: {fileID: 0}
+  sceneManage: {fileID: 0}
+  itemName: Backpack
 --- !u!114 &3809282388920659708
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36423,6 +36523,18 @@ MonoBehaviour:
   m_SelectEntered:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8792394996397820438}
+        m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
+        m_MethodName: SendMarker
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 8792394996397820438}
         m_TargetAssemblyTypeName: InteractionTest, Assembly-CSharp
         m_MethodName: DestroySelf
