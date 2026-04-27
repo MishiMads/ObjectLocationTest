@@ -44,7 +44,8 @@ public class SceneManage : MonoBehaviour
 
     public void LSLSend(string itemName)
     {
-        sample[0] = "#i;RhythmicUrban;" + itemName + ";Selected";
+        string sceneName = SceneManager.GetActiveScene().name;
+        sample[0] = sceneName + ";" + itemName + ";Selected";
         Debug.Log(sample[0]);
         outlet.push_sample(sample);
     }
