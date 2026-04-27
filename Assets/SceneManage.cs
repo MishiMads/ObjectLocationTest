@@ -95,7 +95,21 @@ public class SceneManage : MonoBehaviour
 
     void OnPressF(InputValue value)
     {
-        sample[0] = "Recall";
+        sample[0] = "Free Recall";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
+    }
+
+    void OnPressG(InputValue value)
+    {
+        sample[0] = "Cued Recall 1";
+        Debug.Log(sample[0]);
+        outlet.push_sample(sample);
+    }
+
+    void OnPressH(InputValue value)
+    {
+        sample[0] = "Cued Recall 2";
         Debug.Log(sample[0]);
         outlet.push_sample(sample);
     }

@@ -3465,6 +3465,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Press G",
+                    "type": "Button",
+                    "id": "6b9a770c-f103-4af0-a6f8-90d45448bebd",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Press H",
+                    "type": "Button",
+                    "id": "044cb3ec-752a-4a6d-ade9-33f7c3427ace",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -3542,6 +3560,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Press F",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4c505f06-1c2d-4c99-8fb8-0cd4c1165097",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press G",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "388e1a34-4f5c-443c-ad85-1352a535d372",
+                    "path": "<Keyboard>/h",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press H",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
